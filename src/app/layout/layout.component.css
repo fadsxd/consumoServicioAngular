@@ -1,0 +1,17 @@
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #14ff03;
+    font-weight: 600;
+}
+hr{
+    border-color: #14ff03;
+    border-width: 3px;
+    max-width: 90px;
+    
+}
+.layout{
+    background: url(../../assets/img/img_fondo.jpg) no-repeat center center fixed;
+    height: 100vh;
+    background-size: cover;
+}

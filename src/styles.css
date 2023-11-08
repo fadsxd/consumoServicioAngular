@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+.btn-xk{
+    background-color:#14ff03;
+    border-color: #14ff03;
+    border-radius: 10px;
+    color: black;
+    font-weight: 600;
+}
+.btn-xk:hover{
+    border-width: 2px;
+    background-color:#14ff03;
+    border-color: #14ff03;
+    color: black;
+    font-weight: 700;
+}
